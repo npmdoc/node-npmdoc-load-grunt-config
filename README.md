@@ -1,9 +1,14 @@
-# api documentation for  [load-grunt-config (v0.19.2)](https://github.com/firstandthird/load-grunt-config#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-load-grunt-config.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-load-grunt-config) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-load-grunt-config.svg)](https://travis-ci.org/npmdoc/node-npmdoc-load-grunt-config)
+# npmdoc-load-grunt-config
+
+#### api documentation for  [load-grunt-config (v0.19.2)](https://github.com/firstandthird/load-grunt-config#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-load-grunt-config.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-load-grunt-config) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-load-grunt-config.svg)](https://travis-ci.org/npmdoc/node-npmdoc-load-grunt-config)
+
 #### Grunt plugin that lets you break up your Gruntfile config by task
 
-[![NPM](https://nodei.co/npm/load-grunt-config.png?downloads=true)](https://www.npmjs.com/package/load-grunt-config)
+[![NPM](https://nodei.co/npm/load-grunt-config.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/load-grunt-config)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-load-grunt-config/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-load-grunt-config_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-load-grunt-config/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-load-grunt-config/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-load-grunt-config/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-load-grunt-config/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-load-grunt-config/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-load-grunt-config/build/screenCapture.npmPackageListing.svg)
 
@@ -64,17 +69,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "jga",
-            "email": "code@firstandthird.com"
+            "name": "jga"
         },
         {
-            "name": "solomon",
-            "email": "mail@solomon.if.ua"
+            "name": "solomon"
         }
     ],
     "name": "load-grunt-config",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/firstandthird/load-grunt-config.git"
@@ -85,16 +87,6 @@
     "version": "0.19.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module load-grunt-config](#apidoc.module.load-grunt-config)
-
-
-
-# <a name="apidoc.module.load-grunt-config"></a>[module load-grunt-config](#apidoc.module.load-grunt-config)
 
 
 
